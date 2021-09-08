@@ -10,9 +10,9 @@
 
 ## ABOUT MYSELF
 
-Objective: to get a position of Front-End developer.
-Full-time, remote, ready for business trips, not ready to relocate.
-I’d describe myself as a goal-oriented and hardworking person. I’ve been working as a lawyer all my career. Last year I decided to make a career shift because I was carried away with web-development. Life is unpredictable, it changes, so it is important to be flexible and get the skills that the future holds.
+Objective: to get a position of Front-End developer.  
+Full-time, remote, ready for business trips, not ready to relocate.  
+I’d describe myself as a goal-oriented and hardworking person. I’ve been working as a lawyer all my career. Last year I decided to make a career shift because I was carried away with web-development. Life is unpredictable, it changes, so it is important to be flexible and get the skills that the future holds.  
 I have passion for this job. I like solving problems and seeing the result of my work.
 
 ## SKILLS
@@ -43,3 +43,23 @@ Note: for this kata y isn't considered a vowel.
 `}`\
 `return newStr;`\
 ```} `
+
+## EDUCATION
+
+*DONETSK STATE UNIVERSITY 1982 - 1987  
+ *M.Sc. Economic and legal. Document flow and organization of management work  
+*ODESSA LEGAL INSTITUTE 1998-2001  
+ *M.Sc. Legal. Jurisprudence  
+*COURSES  
+ *UDEMY
+
+1.  WEB-development – completed
+2.  The complete Java-script course– in the process
+3.  The Complete JavaScript + React Course – in the process
+
+## LANGUAGES
+
+1. Russian - Native
+2. Ukrainian - Native
+3. English - Intermediate/Upper-intermediate (according to the online test at [EFSET](https://www.efset.org/))
+   [sertificate](https://www.efset.org/cert/nfryyx)
