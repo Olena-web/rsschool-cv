@@ -27,12 +27,13 @@ I have passion for this job. I like solving problems and seeing the result of my
 
 ## CODE EXAMPLE
 
-Disemvowel Trolls _KATA_ from _CODEWARS_:
-**Trolls are attacking your comment section!**
-**A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.**
-**Your task is to write a function that takes a string and return a new string with all vowels removed.**
-**For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".**
-**Note: for this kata y isn't considered a vowel.**
+Disemvowel Trolls - _KATA_ from _CODEWARS_:
+_Trolls are attacking your comment section!_
+_A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat._
+_Your task is to write a function that takes a string and return a new string with all vowels removed._
+_For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!"._
+_Note: for this kata y isn't considered a vowel._
+
 `function disemvowel(str)` {\
 `let newStr = "",`\
 `i;`
@@ -46,25 +47,25 @@ Disemvowel Trolls _KATA_ from _CODEWARS_:
 
 ## EDUCATION
 
-_DONETSK STATE UNIVERSITY_ 1982 - 1987
+**DONETSK STATE UNIVERSITY** 1982 - 1987
 
 -     M.Sc. Economic and legal. Document flow and organization of management work
 
-_ODESSA LEGAL INSTITUTE_ 1998-2001
+**ODESSA LEGAL INSTITUTE** 1998-2001
 
 -     M.Sc. Legal. Jurisprudence
 
-_COURSES_
+**COURSES**
 
 -     UDEMY
 
-  **WEB-development** – completed  
-  **The complete Java-script course**– in the process  
-  **The Complete JavaScript + React Course** – in the process
+  _WEB-development_ – completed  
+  _The complete Java-script course_– in the process  
+  _The Complete JavaScript + React Course_ – in the process
 
 ## LANGUAGES
 
-1. Russian - Native
-2. Ukrainian - Native
-3. English - Intermediate/Upper-intermediate (according to the online test at [EFSET](https://www.efset.org/)
-   [sertificate](https://www.efset.org/cert/nfryyx)
+1. Russian - native
+2. Ukrainian - native
+3. English - intermediate/upper-intermediate (according to the online test at [EFSET](https://www.efset.org/)
+   [sertificate](https://www.efset.org/cert/nfryyx))
