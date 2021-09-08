@@ -46,15 +46,15 @@ Note: for this kata y isn't considered a vowel.
 
 ## EDUCATION
 
-1.  DONETSK STATE UNIVERSITY 1982 - 1987
+DONETSK STATE UNIVERSITY 1982 - 1987
 
 -     M.Sc. Economic and legal. Document flow and organization of management work
 
-2. ODESSA LEGAL INSTITUTE 1998-2001
+ODESSA LEGAL INSTITUTE 1998-2001
 
 -     M.Sc. Legal. Jurisprudence
 
-3.  COURSES
+COURSES
 
 -     UDEMY
 
