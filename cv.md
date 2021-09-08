@@ -42,20 +42,25 @@ Note: for this kata y isn't considered a vowel.
 `newStr += str[i];`\
 `}`\
 `return newStr;`\
-```} `
+`}` `
 
 ## EDUCATION
 
-- DONETSK STATE UNIVERSITY 1982 - 1987
+1.  DONETSK STATE UNIVERSITY 1982 - 1987
+
 -     M.Sc. Economic and legal. Document flow and organization of management work
-- ODESSA LEGAL INSTITUTE 1998-2001
+
+2. ODESSA LEGAL INSTITUTE 1998-2001
+
 -     M.Sc. Legal. Jurisprudence
-- COURSES
+
+3.  COURSES
+
 -     UDEMY
 
-1.  WEB-development – completed
-2.  The complete Java-script course– in the process
-3.  The Complete JavaScript + React Course – in the process
+  WEB-development – completed  
+  The complete Java-script course– in the process  
+  The Complete JavaScript + React Course – in the process
 
 ## LANGUAGES
 
