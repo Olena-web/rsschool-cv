@@ -27,12 +27,12 @@ I have passion for this job. I like solving problems and seeing the result of my
 
 ## CODE EXAMPLE
 
-Disemvowel Trolls KATA from CODEWARS:
-\_Trolls are attacking your comment section!
-A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.
-Your task is to write a function that takes a string and return a new string with all vowels removed.
-For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
-Note: for this kata y isn't considered a vowel.  
+Disemvowel Trolls _KATA_ from _CODEWARS_:
+**Trolls are attacking your comment section!**
+**A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.**
+**Your task is to write a function that takes a string and return a new string with all vowels removed.**
+**For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".**
+**Note: for this kata y isn't considered a vowel.**
 `function disemvowel(str)` {\
 `let newStr = "",`\
 `i;`
@@ -46,21 +46,21 @@ Note: for this kata y isn't considered a vowel.
 
 ## EDUCATION
 
-DONETSK STATE UNIVERSITY 1982 - 1987
+_DONETSK STATE UNIVERSITY_ 1982 - 1987
 
 -     M.Sc. Economic and legal. Document flow and organization of management work
 
-ODESSA LEGAL INSTITUTE 1998-2001
+_ODESSA LEGAL INSTITUTE_ 1998-2001
 
 -     M.Sc. Legal. Jurisprudence
 
-COURSES
+_COURSES_
 
 -     UDEMY
 
-  WEB-development – completed  
-  The complete Java-script course– in the process  
-  The Complete JavaScript + React Course – in the process
+  **WEB-development** – completed  
+  **The complete Java-script course**– in the process  
+  **The Complete JavaScript + React Course** – in the process
 
 ## LANGUAGES
 
