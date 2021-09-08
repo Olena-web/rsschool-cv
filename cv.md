@@ -46,12 +46,12 @@ Note: for this kata y isn't considered a vowel.
 
 ## EDUCATION
 
-*DONETSK STATE UNIVERSITY 1982 - 1987  
- *M.Sc. Economic and legal. Document flow and organization of management work  
-*ODESSA LEGAL INSTITUTE 1998-2001  
- *M.Sc. Legal. Jurisprudence  
-*COURSES  
- *UDEMY
+- DONETSK STATE UNIVERSITY 1982 - 1987
+-     M.Sc. Economic and legal. Document flow and organization of management work
+- ODESSA LEGAL INSTITUTE 1998-2001
+-     M.Sc. Legal. Jurisprudence
+- COURSES
+-     UDEMY
 
 1.  WEB-development – completed
 2.  The complete Java-script course– in the process
@@ -61,5 +61,5 @@ Note: for this kata y isn't considered a vowel.
 
 1. Russian - Native
 2. Ukrainian - Native
-3. English - Intermediate/Upper-intermediate (according to the online test at [EFSET](https://www.efset.org/))
+3. English - Intermediate/Upper-intermediate (according to the online test at [EFSET](https://www.efset.org/)
    [sertificate](https://www.efset.org/cert/nfryyx)
