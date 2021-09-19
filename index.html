@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Honcharuk Olena | rsschool-cv</title>
+    <base target="_blank" rel="noopener" />
     <meta name="generator" content="Jekyll v3.9.0" />
     <meta property="og:title" content="Honcharuk Olena" />
     <meta property="og:locale" content="en_US" />
@@ -147,6 +148,11 @@
     <meta name="application-name" content="My Application" />
     <meta name="msapplication-config" content="./browserconfig.xml" />
     <link rel="stylesheet" href="css/style.min.css" />
+    <link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/default.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/highlight.min.js"></script>
+    </script>
+    <script>hljs.highlightAll();</script>
   </head>
   <body>
     <aside class="sidepanel">
@@ -235,11 +241,11 @@
         </div>
         <nav>
           <ul class="menu__list">
-            <li class="menu__link"><a href="#about-myself">ABOUT MYSELF</a></li>
-            <li class="menu__link"><a href="#skills">MY SKILLS</a></li>
-            <li class="menu__link"><a href="#my-works">CODE EXAMPLE</a></li>
-            <li class="menu__link"><a href="#">MY WORKS</a></li>
-            <li class="menu__link"><a href="#">CONTACTS</a></li>
+            <li class="menu__link"><a href="#about-myself" target="_self">ABOUT MYSELF</a></li>
+            <li class="menu__link"><a href="#skills" target="_self">MY SKILLS</a></li>
+            <li class="menu__link"><a href="#code-example" target="_self">CODE EXAMPLE</a></li>
+            <li class="menu__link"><a href="#my-works" target="_self">MY WORKS</a></li>
+            <li class="menu__link"><a href="#contacts" target="_self">CONTACTS</a></li>
           </ul>
         </nav>
         <div class="menu__social">
@@ -515,7 +521,7 @@
     </section>
     <section class="code">
       <div class="container">
-        <h2 class="title title__fz16 title__section-title">CODE EXAMPLE</h2>
+        <h2 id = "code-example"class="title title__fz16 title__section-title">CODE EXAMPLE</h2>
         <p class="code-text">
           Disemvowel Trolls - KATA from CODEWARS: Trolls are attacking your
           comment section! A common way to deal with this situation is to remove
@@ -525,7 +531,7 @@
           is for losers LOL!” would become “Ths wbst s fr lsrs LL!”. Note: for
           this kata y isn’t considered a vowel. >
         </p>
-        <pre>
+        <pre><code class="language-js">
         function disemvowel(str) {
         let newStr = "",
                      i;
@@ -536,6 +542,7 @@
         }
           return newStr;
         }
+      </code>
         </pre>
       </div>
     </section>
@@ -548,37 +555,37 @@
         <div class="divider"></div>
         <div class="portfolio__wrapper">
           <a
-            href="https://olena-web.github.io/Uber/src/index.html"
+            href="https://github.com/Olena-web/Uber"
             class="portfolio__item"
           >
             <img src="img/works/uber.jpg" alt="uber" />
           </a>
           <a
-            href="https://olena-web.github.io/Pulse/dist/index.html"
+            href="https://github.com/Olena-web/Pulse"
             class="portfolio__item"
           >
             <img src="img/works/pulse.jpg" alt="pulse" />
           </a>
           <a
-            href="https://olena-web.github.io/portfolio/dist/index.html"
+            href="https://github.com/Olena-web/portfolio"
             class="portfolio__item"
           >
             <img src="img/works/portfolio.jpg" alt="portfolio" />
           </a>
           <a
-            href="https://olena-web.github.io/RESIDENTIAL-COMPLEX-MELODY-WEBSITE/"
+            href="https://github.com/Olena-web/RESIDENTIAL-COMPLEX-MELODY-WEBSITE"
             class="portfolio__item vertical"
           >
             <img src="img/works/home.png" alt="building" />
           </a>
           <a
-            href="https://olena-web.github.io/Internet-boutique-Lomoda-from-intensive/index.html"
+            href="https://github.com/Olena-web/Internet-boutique-Lomoda-from-intensive"
             class="portfolio__item"
           >
             <img src="img/works/premium.jpg" alt="moda" />
           </a>
           <a
-            href="https://olena-web.github.io/constructor/"
+            href="https://github.com/Olena-web/constructor"
             class="portfolio__item horizontal"
           >
             <img src="img/works/background.jpg" alt="film" />
@@ -635,7 +642,7 @@
       <div class="container">
         <div class="contacts__wrapper">
           <div class="contacts__descr">
-            <h2 class="title title__fz16 contacts__title">Contacts</h2>
+            <h2 id = "contacts" class="title title__fz16 contacts__title">Contacts</h2>
             <div class="title title__fz36 contacts__subtitle">Contact me</div>
             <div class="divider"></div>
             <div class="title title__fz14 contacts__text">
@@ -655,6 +662,19 @@
                 class="contacts__link"
                 ><img src="icons/social/instagram_straight.svg" alt="instagram"
               /></a>
+              <a
+                href="https://www.linkedin.com/in/olena-honcharuk-04091a14b/"
+                class="sidepanel__link"
+                ><svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="30"
+                  height="30"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"
+                  /></svg
+              ></a>
               <a href="https://github.com/Olena-web" class="contacts__link"
                 ><img src="icons/social/GitHub-Logo.wine.svg" alt="github"
               /></a>
