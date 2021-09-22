@@ -735,19 +735,19 @@ header {
     height: 20px;
   }
   .about__subtitle,
-  #contacts {
+  #contacts,
+  #contact {
     font-size: 22px;
     line-height: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
   }
   .about__text {
     padding: 10px;
     margin-top: 10px;
     font-size: 14px;
   }
-  #contacts {
-    margin-top: 15px;
-    margin-bottom: 15px;
-  }
+
   .portfolio {
     padding-top: 10px;
   }
